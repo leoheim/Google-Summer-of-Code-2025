@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/10f6be6e-753c-4017-b210-d5f720e4a102)
 # OpenVINO AI PC Training Kit (GSoC 2025 Project)
 This repository contains my work from Google Summer of Code 2025 with OpenVINO, where I developed a modular training and deployment package to optimize machine learning workflows on consumer-grade CPUs.
 
